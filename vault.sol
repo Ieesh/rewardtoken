@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
-contract MyVault {
+contract MyVaults {
     IERC20 public immutable token;
 
     uint public totalSupply;
